@@ -1,5 +1,5 @@
 # 关于本人
-`Git for windows`+`Tortoise Git`
+`Git for windows`+`Tortoise Git`/`VS2019`
 
 ## 不同时间段接触的代码
 
