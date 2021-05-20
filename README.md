@@ -16,14 +16,17 @@
 psnid-`sampersonal`
 
 🏆-1白金27金73银556铜
+```
 
 初音未来PDFT-123h51min-Hard平均100%
 
 Bloodborne-83h48min
+```
 
 ###  Nintendo平台
 
 好友编号-`SW-8129-4974-5687`
+```
 
 AniamlCrossing-Over 350h
 
@@ -44,6 +47,7 @@ TheLegendOfZeldaBOTW-Over 50h
 RingfitAdeventure-Over 50h
 
 PaperMario-Over 50h/All Collected
+```
 
 
 
