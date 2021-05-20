@@ -15,9 +15,10 @@
 
 psnid-`sampersonal`
 
-🏆-0白金4金8银24铜
+🏆-1白金27金73银556铜
 
-初音未来PDFT-Hard平均100%
+初音未来PDFT-123h51min-Hard平均100%
+Bloodborne-83h48min
 
 ###  Nintendo平台
 
