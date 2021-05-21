@@ -5,7 +5,7 @@
 
 2019~2020：C语言、C++、STM32F103\STM32F407
 
-2021：物联网、C#、Python、ESP8266、汉枫模块、NFC、网络协议(TCP/IP、Socket)
+2021：物联网、C#、Python、ESP8266_RTOS_SDK、汉枫模块、NFC、网络协议(TCP/IP、Socket)
 
 
 
