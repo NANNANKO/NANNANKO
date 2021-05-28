@@ -30,7 +30,7 @@ AniamlCrossing-Over 350h
 
 Xenoblade2-Over 250h
 
-MK8DX-Over 250h/13000+
+MK8DX-Over 250h/11000+
 
 FireEmbiemTH-Over 200h
 
