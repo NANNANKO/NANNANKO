@@ -1,5 +1,5 @@
 # 关于本人
-`Git for windows`+`Tortoise Git`/`VS2019`
+`Git for windows`+`Tortoise Git` / `VS2019/2022` / `VSCODE` / `Linux make`
 
 ## 不同时间段接触的代码
 
