@@ -7,6 +7,8 @@
 
 2021：物联网、C#、Python、ESP8266_RTOS_SDK、汉枫模块、NFC、网络协议(TCP/IP、Socket)
 
+2022：USBHID、AliOS、FreeRTOS、Joylink、U8G2
+
 
 
 ## 其实也很喜欢玩QAQ
