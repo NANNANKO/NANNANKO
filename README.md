@@ -26,7 +26,7 @@ Bloodborne OldHunterEdition-83h48min
 
 好友编号-`SW-8129-4974-5687`
 ```
-AniamlCrossing-Over 350h
+AnimalCrossing-Over 350h
 
 Xenoblade2-Over 250h
 
